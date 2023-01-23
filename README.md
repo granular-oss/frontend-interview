@@ -23,7 +23,7 @@ Thank you for considering Granular! For a portion of your interview, you'll be *
 
 Please make sure you have
 
-* Installed [the Microsoft Teams client]([https://zoom.us/download](https://www.microsoft.com/en-us/microsoft-teams/download-app)) *and are able to screen-share*
+* Installed [the Microsoft Teams client](https://www.microsoft.com/en-us/microsoft-teams/download-app) *and are able to screen-share* (e.g. check Accessibility permissions if you're on macOS _beforehand_)!
 * Your favorite React + TypeScript programming setup all ready to go
 
 ## The API
