@@ -190,4 +190,4 @@ Use any maps API (like Google Maps or Mapbox) to show a field's GeoData. Users m
 
 ### Task 7: Deployment
 
-Deploy this app to a platform of your choice (e.g. AWS, Heroku, CloudFlare). Host `server.js` some place (we love our Lambdas but you can pick whatever you want).
+Deploy this app to a platform of your choice (e.g. AWS, Heroku, CloudFlare). Host `serve.js` some place (we love our Lambdas but you can pick whatever you want).
